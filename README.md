@@ -1,9 +1,9 @@
-**Name:** SHUBHAM KOKODE
-**Company:** CODTECH IT SOLUTIONS
-**ID:** CT12DS1373
-**Domain:** JAVA PROGRAMMING
-**Duration:** June to August 2024
-**Mentor:** SRAVANI GOUNI
+Name: SHUBHAM KOKODE
+Company: CODTECH IT SOLUTIONS
+ID: CT12DS1373
+Domain: JAVA PROGRAMMING
+Duration: June to August 2024
+Mentor: SRAVANI GOUNI
 
 
 ## Overview on the Project
